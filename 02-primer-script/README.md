@@ -20,3 +20,21 @@ Como en el tema anterior lo creamos, no necesitamos definir nuevamente todos los
 
 En la carpeta, verás un archivo adicional, llamado: `package-lock.json`, este también es importante, básicamente ayuda a que la instalación de paquetes sea más rápida, y cuidando de las versiones entre los paquetes.
 
+## Crear un archivo
+
+Hay 3 tipos de archivos en Typescript:
+
+* Archivo de código: `index.ts`
+* Archivo de declaraciones: `index.d.ts`
+* Archivo TSX (una mezcla de JS y JSX que veremos más adelante):  `index.tsx`
+
+Nuestro primer archivo será un archivo de código.
+
+Para aquellos que hayan trabajando con Javascript, un archivo `index.ts` sería igual a un archivo de javascript `index.js`.
+
+Bueno pues, creamo sun archivo llamado `index.ts` dentro de la carpeta `./src`. Una vez creado, vamos a poner el siguiente código:
+
+```
+
+```
+

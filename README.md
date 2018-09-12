@@ -14,6 +14,6 @@ git clone https://github.com/huchim/typescript
 
 
 
-* [Primeros pasos](01-primeros-pasos/README.md)
-* [Primer archivo de código](02-primer-script/README.md)
+* [Primeros pasos](01-primeros-pasos)
+* [Primer archivo de código](02-primer-script)
 

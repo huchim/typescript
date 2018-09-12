@@ -102,4 +102,4 @@ Busca la opción `rootDir` y cambiala por `./src` que será nuestro nuevo direct
 
 Terminamos por ahora, como verás necesitas dos archivos básicamente, el `package.json` que instalará todas las herramientas necesarias, incluyendo Typescript, y el `tsconfig.json` donde pondremos la configuración necesaria para poder ejecutar nuestro código.
 
-En el siguiente tema, veremos como [crear nuestro primer archivo](../02-primer-script/README.md) de Typescript.
+En el siguiente tema, veremos como [crear nuestro primer archivo](../02-primer-script) de Typescript.

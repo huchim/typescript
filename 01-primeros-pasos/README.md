@@ -54,7 +54,7 @@ Ahora si, nuestro primer comando de Typescript.
 npx tsc -v
 ```
 
-![Ejecutar comando](H:\git_projects3\github\typescript\primeros-pasos\tsc-version.PNG)
+![Ejecutar comando](tsc-version.PNG)
 
 Como podemos observar, el comando que en realidad estamos ejecutando es: 
 

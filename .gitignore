@@ -1,0 +1,9 @@
+node_modules
+
+# Primeros pasos
+01-primeros-pasos/src
+01-primeros-pasos/*.json
+
+# Primer script
+02-primer-script/src/*.ts
+!02-primer-script/src/foo.ts

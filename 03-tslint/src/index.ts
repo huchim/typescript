@@ -1,3 +1,3 @@
-var a = 1;
-const b = 2;
-const c = a + b;
+const a: number = 1;
+const b: number = 2;
+const c: number = a + b;

@@ -1,9 +1,15 @@
 node_modules
 
 # Primeros pasos
-01-primeros-pasos/src
-01-primeros-pasos/*.json
+01-*/src
+01-*/*.json
 
 # Primer script
-02-primer-script/src/*.ts
-!02-primer-script/src/foo.ts
+02-*/src/*.ts
+02-*/src/*.js
+!02-*/src/foo.ts
+
+# tslint
+03-*/src/*.ts
+03-*/src/*.js
+!03-*/src/index.ts

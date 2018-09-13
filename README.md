@@ -10,6 +10,8 @@ Si aún no se ha descargado la carpeta del curso, se debe correr el siguiente co
 git clone https://github.com/huchim/typescript
 ```
 
+GIT no es necesario, pueden [descargar el ZIP](https://github.com/huchim/typescript/archive/master.zip) del curso y descomprimirlo en alguna parte.
+
 > En todo el curso se dará por entendido que la carpeta estará en `C:\typescript`, y todos los comandos se ejecutarán ahí. Esta carpeta puede ser cualquiera.
 
 
